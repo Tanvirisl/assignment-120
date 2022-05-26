@@ -1,0 +1,10 @@
+[
+    {
+        "_id":"1",
+        "img":"https://image.shutterstock.com/image-photo/computer-ram-random-access-memory-600w-1033743985.jpg",
+        "available":10000,
+        "name":"Ram",
+        "description":"ADATA Premier DDR4 2666 unbuffered-DIMM memory is the latest upgrade solution that supports . ",
+        "price":50
+    }
+]
